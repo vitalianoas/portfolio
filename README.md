@@ -5,11 +5,11 @@ Sono uno studente universitario motivato e appassionato del mondo dei dati, con 
 Statistica per l'Impresa e la Società, Università degli Studi di Napoli Federico II - In Corso
 
 ### Esperienza Professionale 
-Volontario di Servizio Civile @ Dipartimento per le Politiche Giovanili / 06/2024 - In corso
+Volontario di Servizio Civile @ Dipartimento per le Politiche Giovanili 06/2024 - In corso
 - Pulizia ed inserimento dati per numerosi progetti svolti nell'ambito del Servizio Civile.
 - Lavoro di assistenza e supporto agli uffici del comune di Sparanise, al comando della Polizia Locale di Sparanise e alla Protezione Civile di Sparanise, tramite un utilizzo costante di Excel.
 
-Assistente alla vendita e Gestione catalogo @ Fumetteria Magicomix
+Assistente alla vendita e Gestione catalogo @ Fumetteria Magicomix 02/2021 - 04/2022
 - Inserimento del 100% del catalogo delle carte collezionabili della fumetteria sul sito Cardmarket, con aggiornamenti automatizzati per mantenere l'inventario sempre attuale e accurato.
 - Assicurato il posizionamento competitivo delle carte sul mercato online, stabilendo prezzi vantaggiosi e aggiornandoli in base alle tendenze in vendita.
 - Organizzazione e catalogazione dell'intero stock, riducendo i tempi di ricerca per un accesso più rapido alle carte richieste.

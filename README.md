@@ -1,4 +1,5 @@
 # Studente di Statistica
+Sono uno studente universitario motivato e appassionato del mondo dei dati, con l'obiettivo di costruire una solida base di competenze tecniche ed esperienza pratica. Cerco una posizione di data entry che mi permetta di affinare le abilità necessarie per lavorare efficacemente con i dati, contribuendo con precisione ai progetti aziendali.
 
 ### Formazione Scolastica
 Statistica per l'Impresa e la Società, Università degli Studi di Napoli Federico II - In Corso
@@ -7,7 +8,6 @@ Statistica per l'Impresa e la Società, Università degli Studi di Napoli Federi
 Volontario di Servizio Civile @ Dipartimento per le Politiche Giovanili / 06/2024 - In corso
 - Pulizia ed inserimento dati per numerosi progetti svolti nell'ambito del Servizio Civile.
 - Lavoro di assistenza e supporto agli uffici del comune di Sparanise, al comando della Polizia Locale di Sparanise e alla Protezione Civile di Sparanise, tramite un utilizzo costante di Excel.
-- 
 Assistente alla vendita e Gestione catalogo @ Fumetteria Magicomix
 - Inserimento del 100% del catalogo delle carte collezionabili della fumetteria sul sito Cardmarket, con aggiornamenti automatizzati per mantenere l'inventario sempre attuale e accurato.
 - Assicurato il posizionamento competitivo delle carte sul mercato online, stabilendo prezzi vantaggiosi e aggiornandoli in base alle tendenze in vendita.

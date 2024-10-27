@@ -1,7 +1,7 @@
 # Studente di Statistica
 Sono uno studente universitario motivato e appassionato del mondo dei dati, con l'obiettivo di costruire una solida base di competenze tecniche ed esperienza pratica. Cerco una posizione di data entry che mi permetta di affinare le abilità necessarie per lavorare efficacemente con i dati, contribuendo con precisione ai progetti aziendali.
 
-# I miei progetti
+### I miei progetti
 [Progetto di Data Entry Automatica]https://github.com/vitalianoas/Automatic-Data-Entry
 
 ### Formazione Scolastica 

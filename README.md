@@ -2,7 +2,7 @@
 Sono uno studente universitario motivato e appassionato del mondo dei dati, con l'obiettivo di costruire una solida base di competenze tecniche ed esperienza pratica. Cerco una posizione di data entry che mi permetta di affinare le abilità necessarie per lavorare efficacemente con i dati, contribuendo con precisione ai progetti aziendali.
 
 ### I miei progetti
-[Progetto di Data Entry Automatica](https://github.com/vitalianoas/Automatic-Data-Entry)
+[Progetto di Data Entry Automatico](https://github.com/vitalianoas/Automatic-Data-Entry)
 
 ### Formazione Scolastica 
 Statistica per l'Impresa e la Società, Università degli Studi di Napoli Federico II - In Corso
